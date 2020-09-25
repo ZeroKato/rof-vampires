@@ -1,12 +1,13 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <ModMetaData>
-  <packageId>rimofmadness.vampires</packageId>
+  <packageId>Kato.Rimofmadness.Vampires</packageId>
   <name>Rim of Madness - Vampires</name>
-  <author>Jecrell</author>
+  <author>Jecrell and contributors</author>
   <url>https://discord.gg/AaVFA7V</url>
   <supportedVersions>
     <li>1.0</li>
     <li>1.1</li>
+    <li>1.2</li>
   </supportedVersions>
   <modDependencies>
     <li>
@@ -24,8 +25,39 @@
   </modDependencies>
   <loadAfter>
     <li>jecrell.jecstools</li>
+    <li>Dubwise.DubsBadHygiene</li>
   </loadAfter>
-  <description>1.21.0.0 (03-15-2020)
+  <description>1.22.0.0 (09-25-2020)
+This is a rehost of Jecrells orginal Vampires mod. I have not touched much outside of updating this to 1.2 and fixing the most obvious bugs.
+In keeping in spirit with the original, I have added this as a new version, however.
+
+Because of the way package IDs work for Rimworld mods, anything depending on the original Vampires mod will show a missing dependency.
+The mods should still work though, as long as this is loaded BEFORE anything that depends on Vampires.
+
+Requires JecsTools(Unofficial) for 1.2 or newer: [url=steam://url/CommunityFilePage/2195729899]steam://url/CommunityFilePage/2195729899[/url]
+Technically the normal JecsTools should work too, though they have not been updated from 1.1.
+
+The new GitHub repository: https://github.com/ZeroKato/rof-vampires
+The orginal repository by Jecrell: https://github.com/Rim-Of-Madness-Team/Rim-of-Madness---Vampires
+The orginal mod page on Steam: [url=steam://url/CommunityFilePage/1187010034]steam://url/CommunityFilePage/1187010034[/url]
+For questions and such you can find me on the Rim of Madness Discord: https://discord.gg/fczhcP
+
+========================
+Changelog
+========================
+1.22.0.0 (09-25-2020)
+========================
+Rehost in new repository
+Updates repository to 1.2, updates Rimworld and Harmony dependencies and changes JecsTools dependency to instead rely on JecsTools(Unofficial) for 1.2 support.
+Fixes Royal Coffins throwing error when selected
+Fixes Roxal Coffins now showing gizmo buttons at the bottom
+
+
+
+=============================================================
+Original Description And Changelog By Jecrell:
+=============================================================
+1.21.0.0 (03-15-2020)
 
 Adds vampires to RimWorld.
 
