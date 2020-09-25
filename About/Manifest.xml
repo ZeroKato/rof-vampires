@@ -11,6 +11,6 @@
     <li>JecsTools</li>
     <li>DubsBadHygiene</li>
   </loadAfter>
-  <manifestUri>https://raw.githubusercontent.com/Rim-Of-Madness-Team/Rim-of-Madness---Vampires/master/About/Manifest.xml</manifestUri>
-  <downloadUri>https://github.com/Rim-Of-Madness-Team/Rim-of-Madness---Vampires/releases</downloadUri>
+  <manifestUri>https://raw.githubusercontent.com/ZeroKato/rof-vampires/master/About/Manifest.xml</manifestUri>
+  <downloadUri>https://github.com/ZeroKato/rof-vampires</downloadUri>
 </Manifest>
