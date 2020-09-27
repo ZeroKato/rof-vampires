@@ -96,6 +96,7 @@
     <Compile Include="FlyingObject.cs" />
     <Compile Include="GenStep_VampireLair.cs" />
     <Compile Include="HandleVampireQuestComp.cs" />
+    <Compile Include="HarmonyPatches\HarmonyPatches_Fixes.cs" />
     <Compile Include="HarmonyPatches\HarmonyPatches_Menu.cs" />
     <Compile Include="HarmonyPatches\HarmonyPatches_AI.cs" />
     <Compile Include="HarmonyPatches\HarmonyPatches_Graves.cs" />
